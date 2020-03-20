@@ -14,3 +14,5 @@ These resources will be updated with any new or additional content as per our we
 ### Folders
 *  [Teams](Teams)  - Resources for Microsoft Teams
 *  [WVD](WVD)    - Resources for Windows Virtual Desktop
+
+For additional information or deployment questions; please reach out to your Microsoft Account Team contacts
