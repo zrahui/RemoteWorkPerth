@@ -12,4 +12,5 @@ Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms
 * PowerShell Reference - https://docs.microsoft.com/en-us/powershell/module/windowsvirtualdesktop/
 * VM Sizing Guidance - https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
 * Creating master image - https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image
+* Support matrix for WVD Web Client - https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-web
 
