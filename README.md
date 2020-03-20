@@ -5,7 +5,7 @@ Every Wednesday morning
 * 10:00am - 10:30am Teams and Microsoft 365
 * 10:30am - 11:00am WVD
 
-## Join Clinic Now - https://aka.ms/perthremoteclinic
+## Join Clinic - https://aka.ms/perthremoteclinic
 
 # Secure Remote Working
 
