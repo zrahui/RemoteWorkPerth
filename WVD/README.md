@@ -19,6 +19,12 @@ When creating your master template, whether it's for a server session based desk
 ### Securing Access to Windows Virtual Desktop
 * [How to configure Conditional Access with Session Management for Windows Virtual Desktop (WVD)](https://www.robinhobo.com/how-to-configure-conditional-access-with-session-management-for-windows-virtual-desktop-wvd/)
 
+### Troublshooting
+* [Microsoft Windows Virtual Desktop Troubeshooting](https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview)
+* Other Links
+    * [https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/)
+    * [https://christiaanbrinkhoff.com/](https://christiaanbrinkhoff.com/)
+
 ### Other Links
 * PowerShell Reference - https://docs.microsoft.com/en-us/powershell/module/windowsvirtualdesktop/
 * VM Sizing Guidance - https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
