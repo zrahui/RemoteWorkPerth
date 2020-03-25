@@ -31,4 +31,5 @@ When creating your master template, whether it's for a server session based desk
 * VM Sizing Guidance - https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
 * Creating master image - https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image
 * Support matrix for WVD Web Client - https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-web
+* Third-party scripts for onboarding AD Groups into WVD - https://blog.azureinfra.com/2020/01/04/windows-virtual-desktop-group-sync-script/, https://www.microcloud.nl/wvd-group-assignments-powershell/
 
