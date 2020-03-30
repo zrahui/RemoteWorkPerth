@@ -6,7 +6,6 @@ Every Wednesday morning
 * 10:30am - 11:00am WVD
 
 ## Join Clinic - https://aka.ms/perthremoteclinic
-Clinic Calendar Invite - https://aka.ms/covidclinicinvite
 
 # Secure Remote Working
 
