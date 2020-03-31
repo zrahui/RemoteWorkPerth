@@ -1,11 +1,12 @@
 # Remote Work Deployment Clinic
 
-Following on from the Webinar this morning, we will be running a Deployment Clinic as a weekly event for the next 4 weeks that people can drop into to get assistance with their deployments.
-Every Wednesday morning
+Following on from our initial Webinar, we will be running a Virtual Drop-in Clinic as a weekly event for the next 4 weeks where people can drop into to get assistance with their M365/Teams and WVD deployments.
+
+Every Wednesday morning:
 * 10:00am - 10:30am Teams and Microsoft 365
 * 10:30am - 11:00am WVD
 
-## Join Clinic - https://aka.ms/perthremoteclinic
+## Join the Virtual Clinic - https://aka.ms/perthremoteclinic
 
 # Secure Remote Working
 
