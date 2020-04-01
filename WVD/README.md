@@ -8,6 +8,13 @@ https://docs.microsoft.com/en-gb/azure/virtual-desktop/overview
 ### Web Client
 Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms/wvdweb)
 
+### Videos
+* [Stefan Georgiev - Modernize your image management strategy](https://medius.studios.ms/Embed/video-nc/StefanGeorgiev)
+* [Stefan Georgiev - Best practices for profile management with FSLogix](https://medius.studios.ms/Embed/video-nc/Stefan-Georgiev) - AD Auth with Azure Files
+* [Roop Kiran Chevuri - Optimizing your deployment](https://medius.studios.ms/Embed/video-nc/Roop-Kiran-Chevuri)
+* [Pavithra Thiruvengadam - Secure Your Deployment at Scale](https://medius.studios.ms/Embed/video-nc/PavithraThiruvengadam)
+* [Denis-Gundarev Deployment best practices for latency-sensitive workloads in Windows Virtual Desktop](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev)
+
 ### Securing and Optimising the virtual machine image for Windows Virtual Desktop 
 When creating your master template, whether it's for a server session based desktop (e.g. Windows 2016) or desktop operating system (e.g. Windows 10), it is important that you secure and optimise the image. Here are some references to help you.
 * [Recommended settings for VDI desktops](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-1803)
