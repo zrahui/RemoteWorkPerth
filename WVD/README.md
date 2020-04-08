@@ -8,6 +8,9 @@ https://docs.microsoft.com/en-gb/azure/virtual-desktop/overview
 ### Web Client
 Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms/wvdweb)
 
+### WVD PowerBI Dashboard
+Download the prebuilt PowerBI Dashboard for WVD *[here](https://github.com/zrahui/RemoteWorkPerth/blob/master/WVD/WVD%20Reporting.zip)
+
 ### Videos
 * [Stefan Georgiev - Modernize your image management strategy](https://medius.studios.ms/Embed/video-nc/StefanGeorgiev)
 * [Stefan Georgiev - Best practices for profile management with FSLogix](https://medius.studios.ms/Embed/video-nc/Stefan-Georgiev) - AD Auth with Azure Files
