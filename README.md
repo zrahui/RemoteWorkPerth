@@ -27,3 +27,5 @@ You will find specific resources and links in the below folders
 *  [WVD](WVD)    - Resources & Links for Windows Virtual Desktop
 
 For additional information or deployment questions; please reach out to your Microsoft Account Team contacts
+
+Copyright (c) 2020 Microsoft Corporation
