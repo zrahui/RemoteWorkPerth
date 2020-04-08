@@ -22,7 +22,8 @@ Find additional content to support you with deploying and enabling a Secure Remo
 These resources will be updated with any new or additional content as per our webinar.
 
 ### Folders
-*  [Teams](Teams)  - Resources for Microsoft Teams
-*  [WVD](WVD)    - Resources for Windows Virtual Desktop
+You will find specific resources and links in the below folders
+*  [Teams](Teams)  - Resources & Links for Microsoft Teams
+*  [WVD](WVD)    - Resources & Links for Windows Virtual Desktop
 
 For additional information or deployment questions; please reach out to your Microsoft Account Team contacts
