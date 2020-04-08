@@ -28,7 +28,8 @@ When creating your master template, whether it's for a server session based desk
 * [How to configure Conditional Access with Session Management for Windows Virtual Desktop (WVD)](https://www.robinhobo.com/how-to-configure-conditional-access-with-session-management-for-windows-virtual-desktop-wvd/)
 
 ### Managing Profile Size
-https://stealthpuppy.com/fslogix-containers-capacity/
+* https://stealthpuppy.com/fslogix-containers-capacity/
+* [Storage options for FSLogix for WVD](https://docs.microsoft.com/en-gb/azure/virtual-desktop/store-fslogix-profile)
 
 ### Troubleshooting
 * [Microsoft Windows Virtual Desktop Troubeshooting](https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview)
