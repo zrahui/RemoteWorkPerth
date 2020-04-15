@@ -18,6 +18,10 @@ Download the prebuilt PowerBI Dashboard for WVD [here](https://github.com/zrahui
 * [Pavithra Thiruvengadam - Secure Your Deployment at Scale](https://medius.studios.ms/Embed/video-nc/PavithraThiruvengadam)
 * [Denis-Gundarev Deployment best practices for latency-sensitive workloads in Windows Virtual Desktop](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev)
 
+### Adding Hosts to existing Host Pool
+* [Stefan Georgiev (Video) - Adding VM's to Host Pool](https://www.youtube.com/watch?v=-QSzxRk8rpU)
+* [Expand existing Host Pool](https://docs.microsoft.com/en-us/azure/virtual-desktop/expand-existing-host-pool)
+
 ### Securing and Optimising the virtual machine image for Windows Virtual Desktop 
 When creating your master template, whether it's for a server session based desktop (e.g. Windows 2016) or desktop operating system (e.g. Windows 10), it is important that you secure and optimise the image. Here are some references to help you.
 * [Recommended settings for VDI desktops](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-1803)
