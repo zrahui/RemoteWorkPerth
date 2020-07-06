@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Australia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200629T095840Z
+DESCRIPTION:\n\n\n_________________________________________________________
+	_______________________ \nYou're invited to join a Microsoft Teams meeting
+	. \nJoin online now <https://teams.microsoft.com/l/meetup-join/19%3ab1da62
+	6309ba43a48da9a5a898ce85d3%40thread.tacv2/1590735913182?context=%7b%22Tid%
+	22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f21ebd48-
+	4642-4931-bfd8-0f60ad394387%22%7d>  \nVideo conferencing\, screen sharing\
+	, and more. \nOr join by phone (audio only) \n+61 2 8318 0126\,\,198781887
+	# <tel:+61283180126\,\,198781887#>  Australia\, Sydney \nPhone Conference 
+	ID: 198 781 887# \nFind a local number <https://nam06.safelinks.protection
+	.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F576c8211-dbe8
+	-4a9a-8707-1b52ccc23231%3Fid%3D198781887&data=02%7C01%7CMark.Randell%40mic
+	rosoft.com%7Cf6bbf69c43364d108e8b08d81c12d6f1%7C72f988bf86f141af91ab2d7cd0
+	11db47%7C1%7C0%7C637290214534363930&sdata=L6l68cp9qX6ubdigj4xkdfB3RMrAk1Sx
+	sDcSzFrKOYs%3D&reserved=0>  | Reset PIN <https://nam06.safelinks.protectio
+	n.outlook.com/?url=https%3A%2F%2Fmysettings.lync.com%2Fpstnconferencing&da
+	ta=02%7C01%7CMark.Randell%40microsoft.com%7Cf6bbf69c43364d108e8b08d81c12d6
+	f1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637290214534363930&sdata=V
+	xRPgpcpIhx6gdWth3dIFPD6IrR0BCW8h6rmBjyZZXc%3D&reserved=0>  \nHelp <https:/
+	/aka.ms/JoinTeamsMeeting>  | Meeting options <https://nam06.safelinks.prot
+	ection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions
+	%2F%3ForganizerId%3Df21ebd48-4642-4931-bfd8-0f60ad394387%26tenantId%3D72f9
+	88bf-86f1-41af-91ab-2d7cd011db47%26threadId%3D19_b1da626309ba43a48da9a5a89
+	8ce85d3%40thread.tacv2%26messageId%3D1590735913182%26language%3Den-AU&data
+	=02%7C01%7CMark.Randell%40microsoft.com%7Cf6bbf69c43364d108e8b08d81c12d6f1
+	%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637290214534373925&sdata=zT0
+	ZD2N3eGi27XmR2hjAXSfLWcGhu%2B1GiMUCyQfRJww%3D&reserved=0>  \n_____________
+	___________________________________________________________________ \n
+DTEND;TZID="W. Australia Standard Time":20200603T103000
+DTSTAMP:20200629T095731Z
+DTSTART;TZID="W. Australia Standard Time":20200603T100000
+LAST-MODIFIED:20200629T095840Z
+ORGANIZER;CN="the lowdown":thelowdown907@service.microsoft.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SEQUENCE:4
+SUMMARY:the lowdown - powered by Microsoft Perth
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080EECA808735D601000000000000000
+	0100000008EBE49DBD37AC74BA4A1198E3ACA16AF
+X-ALT-DESC;FMTTYPE=text/html:<html><head>\n</head>\n<body>\n<div><br>\n<br>
+	\n<br>\n<div style="width:100%\;height: 20px\;"><span style="white-space:n
+	owrap\;color:gray\;opacity:.36\;">________________________________________
+	________________________________________</span>\n</div>\n<div class="me-em
+	ail-text" style="color:#252424\;font-family:'Segoe UI'\,'Helvetica Neue'\,
+	Helvetica\,Arial\,sans-serif\;">\n<div style="margin-top: 24px\; margin-bo
+	ttom: 20px\;"><span style="font-size: 14px\; color:#252424\; font-weight: 
+	bold">You're invited to join a Microsoft Teams meeting.</span>\n</div>\n<d
+	iv style="margin-bottom: 0px\;"><a class="me-email-headline" style="font-s
+	ize: 24px\;font-family:'Segoe UI Semibold'\,'Segoe UI'\,'Helvetica Neue'\,
+	Helvetica\,Arial\,sans-serif\;text-decoration: underline\;color: #6264a7\;
+	" href="https://teams.microsoft.com/l/meetup-join/19%3ab1da626309ba43a48da
+	9a5a898ce85d3%40thread.tacv2/1590735913182?context=%7b%22Tid%22%3a%2272f98
+	8bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f21ebd48-4642-4931-bfd
+	8-0f60ad394387%22%7d" target="_blank" rel="noreferrer noopener">Join\n onl
+	ine now</a> </div>\n<div style="margin-top: 0px\; margin-bottom: 20px\;"><
+	span style="font-size: 14px\; color:#252424">Video conferencing\, screen s
+	haring\, and more.</span>\n</div>\n<div style="margin-bottom: 4px\;">\n<di
+	v style="margin-bottom: 4px\;"><span style="font-size: 14px\; color:#25242
+	4\; font-weight: bold">Or join by phone (audio only)</span>\n</div>\n<div 
+	style="margin-bottom: 4px\;"><a style="font-size: 14px\;text-decoration: u
+	nderline\;color: #6264a7\;" href="tel:&#43\;61283180126\,\,198781887# ">&#
+	43\;61 2 8318 0126\,\,198781887#</a>\n<span style="font-size: 14px\; color
+	:#252424\;">Australia\, Sydney </span></div>\n</div>\n<span style="font-si
+	ze: 14px\; color:#252424\;">Phone Conference ID: </span><span style="font-
+	size: 16px\; color:#252424\;">198 781 887#\n</span>\n<div style="margin-bo
+	ttom: 20px\;"><a class="me-email-link" style="font-size: 14px\;text-decora
+	tion: underline\;color: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\
+	,Helvetica\,Arial\,sans-serif\;" target="_blank" href="https://nam06.safel
+	inks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%
+	2F576c8211-dbe8-4a9a-8707-1b52ccc23231%3Fid%3D198781887&amp\;data=02%7C01%
+	7CMark.Randell%40microsoft.com%7Cf6bbf69c43364d108e8b08d81c12d6f1%7C72f988
+	bf86f141af91ab2d7cd011db47%7C1%7C0%7C637290214534363930&amp\;sdata=L6l68cp
+	9qX6ubdigj4xkdfB3RMrAk1SxsDcSzFrKOYs%3D&amp\;reserved=0" originalsrc="http
+	s://dialin.teams.microsoft.com/576c8211-dbe8-4a9a-8707-1b52ccc23231?id=198
+	781887" shash="QZk6UaJiV2LsK61tFVAyA057u7&#43\;QfqHVVPwwBBiuXhbQFQ6DhovuAn
+	TIv86i5Jo2XP5VupRWMt&#43\;03EonAH4K2Ztav4s4QXOaChsCNG5zFZVJrozhKDqqA6P4Bb9
+	gpvfckw9&#43\;90R4Jdh9D95YoCCaVqFOBZVIEMrrzarLzcFX&#43\;As=" rel="noreferr
+	er noopener">Find\n a local number</a> | <a class="me-email-link" style="f
+	ont-size: 14px\;text-decoration: underline\;color: #6264a7\;" target="_bla
+	nk" href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%
+	2Fmysettings.lync.com%2Fpstnconferencing&amp\;data=02%7C01%7CMark.Randell%
+	40microsoft.com%7Cf6bbf69c43364d108e8b08d81c12d6f1%7C72f988bf86f141af91ab2
+	d7cd011db47%7C1%7C0%7C637290214534363930&amp\;sdata=VxRPgpcpIhx6gdWth3dIFP
+	D6IrR0BCW8h6rmBjyZZXc%3D&amp\;reserved=0" originalsrc="https://mysettings.
+	lync.com/pstnconferencing" shash="woTsELtCFnWnCdr1tqy66tLreupJSeJfuVajpwbO
+	Hk/b0YtAOrgJsrpXNHdmaMPdNvW5NWM4xKfKlxvSGQNHnAC83pN233Y19bXXfmjnchksk&#43\
+	;2hjd&#43\;Yj/D7OOZX11sGTISEdQcNWFIPQG8/ivU2jIF&#43\;O96bD8GxFFCO6en4AHY="
+	 rel="noreferrer noopener">\nReset PIN</a> </div>\n<div style="margin-bott
+	om: 24px\;margin-top: 20px\;"><a class="me-email-link" style="font-size: 1
+	4px\;text-decoration: underline\;color: #6264a7\;font-family:'Segoe UI'\,'
+	Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" href="htt
+	ps://aka.ms/JoinTeamsMeeting" rel="noreferrer noopener">Help</a>\n | <a cl
+	ass="me-email-link" style="font-size: 14px\;text-decoration: underline\;co
+	lor: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,
+	sans-serif\;" target="_blank" href="https://nam06.safelinks.protection.out
+	look.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3Forga
+	nizerId%3Df21ebd48-4642-4931-bfd8-0f60ad394387%26tenantId%3D72f988bf-86f1-
+	41af-91ab-2d7cd011db47%26threadId%3D19_b1da626309ba43a48da9a5a898ce85d3%40
+	thread.tacv2%26messageId%3D1590735913182%26language%3Den-AU&amp\;data=02%7
+	C01%7CMark.Randell%40microsoft.com%7Cf6bbf69c43364d108e8b08d81c12d6f1%7C72
+	f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637290214534373925&amp\;sdata=zT0
+	ZD2N3eGi27XmR2hjAXSfLWcGhu%2B1GiMUCyQfRJww%3D&amp\;reserved=0" originalsrc
+	="https://teams.microsoft.com/meetingOptions/?organizerId=f21ebd48-4642-49
+	31-bfd8-0f60ad394387&amp\;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&am
+	p\;threadId=19_b1da626309ba43a48da9a5a898ce85d3@thread.tacv2&amp\;messageI
+	d=1590735913182&amp\;language=en-AU" shash="JE8ajlY2v7QxVZiwSEsaR/nmN1R67A
+	6aImX&#43\;gh5IVo01M571SYiEsxB/d7hPx1UTBtCY3BqzxZsYu4EdzZCoH/QVs6v8cIGpOlR
+	Y5c&#43\;hCYEzPoBjLXUPpyrSVBz7WdQ6zAZi6VKKX45QlmI2rDDvdfQpZt27zk1kIgR1ulf9
+	Kws=" rel="noreferrer noopener">\nMeeting options</a> </div>\n</div>\n<div
+	 style="font-size: 14px\; margin-bottom: 4px\;font-family:'Segoe UI'\,'Hel
+	vetica Neue'\,Helvetica\,Arial\,sans-serif\;">\n</div>\n<div style="font-s
+	ize: 12px\;"></div>\n</div>\n<div style="width:100%\;height: 20px\;"><span
+	 style="white-space:nowrap\;color:gray\;opacity:.36\;">___________________
+	_____________________________________________________________</span>\n</di
+	v>\n<div></div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20200629T095731Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200629T095840Z
+DTEND:20200610T023000Z
+DTSTAMP:20200629T095840Z
+DTSTART:20200610T020000Z
+LAST-MODIFIED:20200629T095840Z
+PRIORITY:5
+RECURRENCE-ID:20200610T020000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E0080000000080EECA808735D601000000000000000
+	0100000008EBE49DBD37AC74BA4A1198E3ACA16AF
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20200629T095840Z
+DTEND:20200624T023000Z
+DTSTAMP:20200629T095840Z
+DTSTART:20200624T020000Z
+LAST-MODIFIED:20200629T095840Z
+PRIORITY:5
+RECURRENCE-ID:20200624T020000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E0080000000080EECA808735D601000000000000000
+	0100000008EBE49DBD37AC74BA4A1198E3ACA16AF
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
