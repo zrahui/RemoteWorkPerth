@@ -5,7 +5,8 @@ Following on from our initial Webinar, we will be running a Virtual Drop-in Sess
 Every Wednesday morning:
 * 10:00am - 10:30am
 
-## Join "the lowdown" to get questions answered and for the latest updates - https://aka.ms/thelowdown
+## Join "the lowdown" 
+Get questions answered and for the latest updates - https://aka.ms/thelowdown
 
 # Secure Remote Working
 
