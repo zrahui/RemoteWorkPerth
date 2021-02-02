@@ -5,6 +5,10 @@ This folder contains architecture and deployment guides for WVD (Windows Virtual
 For the latest, up-to-date deployment and service information; refer to the articles below on docs.microsoft.com
 https://docs.microsoft.com/en-gb/azure/virtual-desktop/overview
 
+### WVD Training
+Access self-paced, on demand training material to help you get started, plan, deploy, secure and optimise your WVD deployments.
+https://docs.microsoft.com/en-us/users/brcar/collections/2x3nbdq0m52zm3?products=azure&terms=desktop&source=learn
+
 ### Web Client
 Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms/wvdweb)
 
