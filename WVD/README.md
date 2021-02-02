@@ -24,8 +24,8 @@ Download the prebuilt PowerBI Dashboard for WVD [here](https://github.com/zrahui
 
 ### Securing and Optimising the virtual machine image for Windows Virtual Desktop 
 When creating your master template, whether it's for a server session based desktop (e.g. Windows 2016) or desktop operating system (e.g. Windows 10), it is important that you secure and optimise the image. Here are some references to help you.
-* [Recommended settings for VDI desktops](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-1803)
-* [Optimizing Windows 10, version 1803, for a Virtual Desktop Infrastructure (VDI) role](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-1803)
+* [Recommended settings for VDI desktops](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations)
+* [Optimizing Windows 10, version 2004, for a Virtual Desktop Infrastructure (VDI) role](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-2004)
 * [Optimizing Windows 10, version 1909, for a Virtual Desktop Infrastructure (VDI) role](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds_vdi-recommendations-1909)
 * [Deployment guide for Windows Defender Antivirus in a virtual desktop infrastructure (VDI) environment](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/deployment-vdi-windows-defender-antivirus)
 * [Virus scanning recommendations for Enterprise computers that are running currently supported versions of Windows](https://support.microsoft.com/en-us/help/822158/virus-scanning-recommendations-for-enterprise-computers)
