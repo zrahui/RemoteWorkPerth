@@ -16,13 +16,6 @@ Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms
 Download the prebuilt PowerBI Dashboard for WVD [here](https://github.com/zrahui/RemoteWorkPerth/blob/master/WVD/WVD%20Reporting.zip)
 Leverage the Azure Monitor Workbook for native reporting (Preview) [here] (https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor)
 
-### Videos
-* [Stefan Georgiev - Modernize your image management strategy](https://medius.studios.ms/Embed/video-nc/StefanGeorgiev)
-* [Stefan Georgiev - Best practices for profile management with FSLogix](https://medius.studios.ms/Embed/video-nc/Stefan-Georgiev) - AD Auth with Azure Files
-* [Roop Kiran Chevuri - Optimizing your deployment](https://medius.studios.ms/Embed/video-nc/Roop-Kiran-Chevuri)
-* [Pavithra Thiruvengadam - Secure Your Deployment at Scale](https://medius.studios.ms/Embed/video-nc/PavithraThiruvengadam)
-* [Denis-Gundarev Deployment best practices for latency-sensitive workloads in Windows Virtual Desktop](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev)
-
 ### Adding Hosts to existing Host Pool
 * [Stefan Georgiev (Video) - Adding VM's to Host Pool](https://www.youtube.com/watch?v=-QSzxRk8rpU)
 * [Expand existing Host Pool](https://docs.microsoft.com/en-us/azure/virtual-desktop/expand-existing-host-pool)
@@ -44,6 +37,13 @@ When creating your master template, whether it's for a server session based desk
 
 ### Securing Access to Windows Virtual Desktop
 * [How to configure Conditional Access with Session Management for Windows Virtual Desktop (WVD)](https://www.robinhobo.com/how-to-configure-conditional-access-with-session-management-for-windows-virtual-desktop-wvd/)
+
+### Videos
+* [Stefan Georgiev - Modernize your image management strategy](https://medius.studios.ms/Embed/video-nc/StefanGeorgiev)
+* [Stefan Georgiev - Best practices for profile management with FSLogix](https://medius.studios.ms/Embed/video-nc/Stefan-Georgiev) - AD Auth with Azure Files
+* [Roop Kiran Chevuri - Optimizing your deployment](https://medius.studios.ms/Embed/video-nc/Roop-Kiran-Chevuri)
+* [Pavithra Thiruvengadam - Secure Your Deployment at Scale](https://medius.studios.ms/Embed/video-nc/PavithraThiruvengadam)
+* [Denis-Gundarev Deployment best practices for latency-sensitive workloads in Windows Virtual Desktop](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev)
 
 ### Managing Profile Size
 * https://stealthpuppy.com/fslogix-containers-capacity/
