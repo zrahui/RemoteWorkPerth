@@ -28,10 +28,10 @@ Leverage the Azure Monitor Workbook for native reporting (Preview) [here] (https
 * [Expand existing Host Pool](https://docs.microsoft.com/en-us/azure/virtual-desktop/expand-existing-host-pool)
 
 ### Useful links for recent changes (Feb 2021)
-*[Migration to latest version of WVD (ARM)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/manual-migration)
-*[Auto-scale to save costs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script#manage-your-scaling-tool)
-*[Create a validation pool for testing changes](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-validation-host-pool?WT.mc_id=Portal-Microsoft_Azure_WVD)
-*[Teams on WVD](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
+* [Migration to latest version of WVD (ARM)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/manual-migration)
+* [Auto-scale to save costs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script#manage-your-scaling-tool)
+* [Create a validation pool for testing changes](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-validation-host-pool?WT.mc_id=Portal-Microsoft_Azure_WVD)
+* [Teams on WVD](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
 
 ### Securing and Optimising the virtual machine image for Windows Virtual Desktop 
 When creating your master template, whether it's for a server session based desktop (e.g. Windows 2016) or desktop operating system (e.g. Windows 10), it is important that you secure and optimise the image. Here are some references to help you.
