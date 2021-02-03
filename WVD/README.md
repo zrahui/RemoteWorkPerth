@@ -12,8 +12,9 @@ https://docs.microsoft.com/en-us/users/brcar/collections/2x3nbdq0m52zm3?products
 ### Web Client
 Access the WVD Web Client through this short link: [aka.ms/wvdweb](http://aka.ms/wvdweb)
 
-### WVD PowerBI Dashboard
+### WVD Usage Reporting 
 Download the prebuilt PowerBI Dashboard for WVD [here](https://github.com/zrahui/RemoteWorkPerth/blob/master/WVD/WVD%20Reporting.zip)
+Leverage the Azure Monitor Workbook for native reporting (Preview) [here] (https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor)
 
 ### Videos
 * [Stefan Georgiev - Modernize your image management strategy](https://medius.studios.ms/Embed/video-nc/StefanGeorgiev)
@@ -25,6 +26,12 @@ Download the prebuilt PowerBI Dashboard for WVD [here](https://github.com/zrahui
 ### Adding Hosts to existing Host Pool
 * [Stefan Georgiev (Video) - Adding VM's to Host Pool](https://www.youtube.com/watch?v=-QSzxRk8rpU)
 * [Expand existing Host Pool](https://docs.microsoft.com/en-us/azure/virtual-desktop/expand-existing-host-pool)
+
+### Useful links for recent changes (Feb 2021)
+[Migration to latest version of WVD (ARM)](https://docs.microsoft.com/en-gb/azure/virtual-desktop/manual-migration)
+[Auto-scale to save costs](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script#manage-your-scaling-tool)
+[Create a validation pool for testing changes](https://docs.microsoft.com/en-gb/azure/virtual-desktop/create-validation-host-pool?WT.mc_id=Portal-Microsoft_Azure_WVD)
+[Teams on WVD](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd)
 
 ### Securing and Optimising the virtual machine image for Windows Virtual Desktop 
 When creating your master template, whether it's for a server session based desktop (e.g. Windows 2016) or desktop operating system (e.g. Windows 10), it is important that you secure and optimise the image. Here are some references to help you.
